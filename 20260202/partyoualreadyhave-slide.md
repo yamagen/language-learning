@@ -2,7 +2,7 @@
 marp: true
 theme: default
 paginate: true
-footer: "Hilofumi Yamamoto - Final Lecture 2026"
+footer: "Hilofumi Yamamoto - Final Lecture 2026.02.02"
 file: "partyoualreadyhave-slide.html"
 ---
 
@@ -16,11 +16,10 @@ file: "partyoualreadyhave-slide.html"
 
     The Last lecture for international students learning Japanese.
 
-<small> <small> <small> <small>
-Date: 2026/02/02
-<br>
-Hilofumi Yamamoto, Ph.D. Institute of Science Tokyo
-</small> </small> </small> </small>
+<small><small>
+Hilofumi Yamamoto, Ph.D.
+Institute of Science Tokyo
+</small></small>
 
 ---
 
@@ -60,12 +59,15 @@ Hilofumi Yamamoto, Ph.D. Institute of Science Tokyo
 
 > **Two layers: think fast and think slow.**
 
+<center>
+<img src="./fastslow01.svg" alt="Thinking Fast and Slow" width="50%"/>
+</center>
+
 - Fast: very quick, automatic, intuitive, and emotional, but sometimes prone to errors.
 - Slow: deliberate, logical, and analytical, but requires more effort and time.
 
-```text
-Daniel Kahneman's System 1 and System 2:
-Thinking, Fast and Slow in 2011
+```
+Daniel Kahneman's System 1 and System 2: Thinking, Fast and Slow in 2011
 ```
 
 ## Q.4 There are two layers in grammar. What are they?
