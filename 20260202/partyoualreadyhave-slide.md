@@ -16,17 +16,11 @@ file: "partyoualreadyhave-slide.html"
 
     The Last lecture for international students learning Japanese.
 
-<small>
-<small>
-<small>
-<small>
+<small> <small> <small> <small>
 Date: 2026/02/02
 <br>
 Hilofumi Yamamoto, Ph.D. Institute of Science Tokyo
-</small>
-</small>
-</small>
-</small>
+</small> </small> </small> </small>
 
 ---
 
@@ -101,7 +95,7 @@ Thinking, Fast and Slow in 2011
 
 ## Q.6 Why do you stop using your universal skills?
 
-> **Because you believe "You have to understand everything."**
+> **Because you believe "I have to understand everything."**
 
 - Even in your native language, you do not understand everything.
 - It is not a Japanese problem but a "comprehension problem."
