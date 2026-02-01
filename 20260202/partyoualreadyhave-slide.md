@@ -3,6 +3,7 @@ marp: true
 theme: default
 paginate: true
 footer: "Hilofumi Yamamoto - Final Lecture 2026"
+file: "partyoualreadyhave-slide.html"
 ---
 
 <!-- _backgroundImage: url('sciencetokyo.png') -->
@@ -15,9 +16,17 @@ footer: "Hilofumi Yamamoto - Final Lecture 2026"
 
     The Last lecture for international students learning Japanese.
 
+<small>
+<small>
+<small>
+<small>
 Date: 2026/02/02
-
+<br>
 Hilofumi Yamamoto, Ph.D. Institute of Science Tokyo
+</small>
+</small>
+</small>
+</small>
 
 ---
 
@@ -167,10 +176,10 @@ Which side, immediate or adjustive, honorifics skills are belonging to?
 
 ---
 
-<!-- _backgroundImage: url('githubicon01.png') -->
-<!-- _backgroundSize: 20% -->
-<!-- _backgroundPosition: right 10px bottom 10px -->
-<!-- _backgroundRepeat: no-repeat -->
+<!-- _backgroundImage: url('qr20260201174637410.png'), url('githubicon01.png') -->
+<!-- _backgroundSize: 20%, 20% -->
+<!-- _backgroundPosition: right 280px bottom 20px, right 20px bottom 20px -->
+<!-- _backgroundRepeat: no-repeat, no-repeat -->
 
 ## One last message
 
