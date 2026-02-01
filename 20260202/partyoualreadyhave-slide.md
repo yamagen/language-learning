@@ -156,6 +156,8 @@ Thinking, Fast and Slow in 2011
 
 > Remember what you already do in your own language.
 
+<br>
+By the way, <br>
 Which side, immediate or adjustive, honorifics skills are belonging to?
 
 ## The answer is...
