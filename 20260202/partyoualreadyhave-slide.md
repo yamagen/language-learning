@@ -3,7 +3,9 @@ marp: true
 theme: default
 paginate: true
 footer: "Hilofumi Yamamoto - Final Lecture 2026.02.02"
-file: "partyoualreadyhave-slide.html"
+output: partyoualreadyhave-slide.html
+style: |
+  @import "../themes/custom2.css";
 ---
 
 <!-- _backgroundImage: url('sciencetokyo.png') -->
@@ -159,8 +161,8 @@ Daniel Kahneman's System 1 and System 2: Thinking, Fast and Slow in 2011
 > Remember what you already do in your own language.
 
 <br>
-By the way, <br>
-Which side, immediate or adjustive, honorifics skills are belonging to?
+By the way,...<br>
+Honorific usage belongs to which grammar, the immediate or the adjustive?
 
 ## The answer is...
 
